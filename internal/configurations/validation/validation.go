@@ -8,7 +8,7 @@ import (
 	ut "github.com/go-playground/universal-translator"
 	"github.com/go-playground/validator/v10"
 	en_translations "github.com/go-playground/validator/v10/translations/en"
-	"github.com/odanaraujo/futebol-api/internal/handler/exception"
+	"github.com/odanaraujo/futebol-api/internal/configurations/exception"
 )
 
 var (
